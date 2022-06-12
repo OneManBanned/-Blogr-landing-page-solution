@@ -17,8 +17,8 @@ Users should be able to:
 - See hover states for all interactive elements on the page
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://www.frontendmentor.io/solutions/blogr-landing-page-solution-NU_no5o3Sn
+- Live Site URL: https://onemanbanned.github.io/-Blogr-landing-page-solution/
 
 ### Built with
 
